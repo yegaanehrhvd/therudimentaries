@@ -18,3 +18,4 @@ def is_prime(n):
     print(f"{n} is not a prime number")
 
 is_prime(int(input("Enter a number: ")))
+print("Hello")
